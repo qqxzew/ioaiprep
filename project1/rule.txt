@@ -1,0 +1,3 @@
+time = 0.05 × weight + 2 × ingredients + 60 / power + method_bonus + noise
+• method_bonus: baking +20, frying +0, boiling +10
+• noise: normal(0, 5)
